@@ -1,0 +1,11 @@
+{
+  "name": "guestara_assignment",
+  "version": "1.0.0",
+  "description": "Assignment by guestara for Internship",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vivek",
+  "license": "ISC"
+}
